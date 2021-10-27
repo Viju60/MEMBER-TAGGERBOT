@@ -21,8 +21,8 @@ spam_chats = []
 @client.on(events.NewMessage(pattern="^/start$"))
 async def start(event):
   await event.reply( 
-    "**I AM MEMBER TAGGER BOT**[,](https://telegra.ph/file/acedd96270dd83cd80557.jpg) **I CAN MENTION ALMOST ALL MEMBERS IN GROUP OR CHANNEL** 👻\nClick **/help** **for more information** \n\n 🤖 **MY DEVELOPER IS** [𓄂I AM᭄ VIJAY ࿐](https://t.me/VIJAY1142)",
-    link_preview=False,
+    "**I AM MEMBER TAGGER BOT**[ ](https://telegra.ph/file/acedd96270dd83cd80557.jpg) **I CAN MENTION ALMOST ALL MEMBERS IN GROUP OR CHANNEL** 👻\nClick **/help** **for more information** \n\n 🤖 **MY DEVELOPER IS** [𓄂I AM᭄ VIJAY ࿐](https://t.me/VIJAY1142)",
+    link_preview=True,
     buttons=(
       [
         Button.url('✅ ᴜᴘᴅᴀᴛᴇ ᴀɴᴅ ɴᴇᴡꜱ', 'https://t.me/VkTgBotz'),
