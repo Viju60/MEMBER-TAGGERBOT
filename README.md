@@ -16,4 +16,8 @@ _**This bot can mention members in your groups and can mention members upto 200 
 [![TAGGERBOT](https://img.shields.io/badge/@VkTgBotSupport-Group-red?style=for-the-badge&logo=telegram)](https://t.me/VkTgBotSupport)</br></br>
 [![CONTACT ME](https://img.shields.io/badge/Telegram-Contact%20Me-informational)](https://t.me/VIJAY1142)
 
+## *FIND MEMBER TAGGER BOT ON TELEGRAM* = [MEMBER-TAGGERBOT](https://t.me/MEMBER_TAGGER_BOT)
+
+- FIND [DEVELOPER](https://t.me/VIJAY1142) HERE ❤️
+
 **Do not forget to follow me on Github ✌️**
