@@ -11,6 +11,10 @@ _**This bot can mention members in your groups and can mention members upto 200 
 🚀 Deploy to heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Viju60/MentionAllBot)
 
+## 🅿🅰🆃🅽🅴🆁
+- [𝗦𝗛𝗔𝗛𝗜𝗗](t.me/Shahid_k6795)
+- [𝗥𝗜𝗧𝗘𝗦𝗛](t.me/ritesh)
+
 ## 🆂🆄🅿🅿🅾🆁🆃
 [![MEMBER TAGGERBOT](https://img.shields.io/badge/@VkTgBotz-channel-red?style=for-the-badge&logo=telegram)](https://t.me/VkTgBotz)</br></br>
 [![TAGGERBOT](https://img.shields.io/badge/@VkTgBotSupport-Group-red?style=for-the-badge&logo=telegram)](https://t.me/VkTgBotSupport)</br></br>
